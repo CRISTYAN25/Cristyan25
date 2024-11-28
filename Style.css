@@ -1,0 +1,78 @@
+body{
+
+
+font-family: Arial, sans-sent background-color: #tatala
+
+
+color: #41414
+
+margin: 0;
+
+Padding: 20px
+
+ 
+
+}
+
+
+container ( max-width: 1200px;
+
+
+margin: 0 auto;
+
+
+padding: 20px;
+
+
+}
+
+
+h1{
+
+
+text-align: center.
+
+color: #ffc 107:
+
+}
+
+form {
+
+display: flex;
+
+ flex-direction: column;
+
+
+input[type="number"]
+
+padding: 10px; margin-bottom: 15px; border-radius: 5px border: 1px solid #ffc107: background-color: #333; color: #ffc107;
+
+
+width: 150px;
+
+
+categories {
+
+
+margin-bottom: 15px; 
+
+}
+
+label (
+
+font-weight: bold margin-bottom: 5px;
+
+input[type="checkbox"] {
+
+margin-top: 15px;
+
+display: none;
+
+}
+
+label.checkbox {
+
+display: flex;
+
+
+
